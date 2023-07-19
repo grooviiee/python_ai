@@ -10,6 +10,10 @@ ai w/o rl
     1. Minimize **catastrophic forgetting**
 
 
+    Three solution concept
+    **1. Replay methods** (Rehearsal)
+    **2. Regularization-based methods** (Memory)
+    **3. Parameter isolation methods** (Architectural)
 
     solution
     1. GDumb
