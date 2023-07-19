@@ -2,12 +2,13 @@
 ai w/o rl
 
 
-**continual learning**
+**Continual learning**
 
-    aka incremental learning or deep learning ver 2
+    also called "Incremental Learning", "machine Learning 2.0", or "Lifelong Machine Learning"
 
     Goal:
-    1. Minimize **catastrophic forgetting**
+    1. Retain learned knowledge from previous tasks & use it to help furure learning 
+    2. Minimize **catastrophic forgetting**
 
 
 **Three solution concept**
@@ -16,6 +17,7 @@ ai w/o rl
     2. Regularization-based methods (Memory)
     3. Parameter isolation methods (Architectural)
 
-** Popular Solution**
 
-    1. GDumb
+**Popular Solution**
+
+    1. GDumb (Random Sampling concept)
